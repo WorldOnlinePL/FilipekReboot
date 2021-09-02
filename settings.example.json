@@ -1,0 +1,37 @@
+{
+    "Discord": {
+        "Token": "",
+        "Prefix": ""
+    },
+    "BaseURL": "",
+    "BaseGameUrl": "",
+    "Permissions": [
+        {
+            "name": "MeTonaTOR",   
+            "id": "u_793161523643809803",
+            "permissions": ["all"]
+        }, {
+            "name": "natixx",      
+            "id": "u_867894959834660896",
+            "permissions": ["all"]
+        }, {
+            "name": "brazowooka",      
+            "id": "u_781047617819770880",
+            "permissions": ["all"]
+        }, {
+            "name": "role_moderation",      
+            "id": "r_775760847149465640",
+            "permissions": ["gameban", "gamekick"]
+        }, {
+            "name": "role_sql",      
+            "id": "r_766336221650747433",
+            "permissions": ["sql"]
+        }
+    ],
+    "MysqlService": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    }
+}

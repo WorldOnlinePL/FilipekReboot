@@ -1,0 +1,19 @@
+{
+  "name": "filipekreboot",
+  "version": "2.0.0",
+  "description": "FilipekReboot: An WorldOnline.PL Main Bot",
+  "main": "app.js",
+  "author": "WOPL Team",
+  "license": "WTFPL",
+  "dependencies": {
+    "as-table": "^1.0.55",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "discord.js": "12.5",
+    "loglevel": "^1.7.1",
+    "loglevel-plugin-prefix": "^0.8.4",
+    "opusscript": "0.0.8",
+    "sync-mysql": "^3.0.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
